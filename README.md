@@ -77,7 +77,7 @@ Code Example :
 ```go 
 func quickSort(arr []int) []int {
     if len(arr) < 2 {
-        return arr
+        return arr![img_1.png](img_1.png)
     } else {
         pivot := arr[0]
         var less []int
@@ -105,5 +105,14 @@ It's the worst case scenario, it's the most inefficient way to search for someth
 - O (N!) - Factorial Time
 
 
-## 2. Arrays
+## 2. Resolving Coding interview
+
+### 4 points:
+
+1. Analytics skills - They wanna hear your thinking process 
+
+
+
+### Content:
+![img_4.png](img_4.png)
 
