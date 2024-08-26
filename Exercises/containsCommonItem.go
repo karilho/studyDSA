@@ -67,7 +67,7 @@ func containsCommons3(arr1, arr2 []string) bool {
     return false
 }
 
-func main() {
+func main1() {
     var arr1 = []string{"xab", "base", "ca", "ty", "bebeb"}
     var arr2 = []string{"cac", "tega", "manteg", "f"}
 
